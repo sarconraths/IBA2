@@ -1,0 +1,23 @@
+GUV-Rechnung
+
+1. Eigenakpitalrentabilität:
+	Gewinn*100/EK
+
+	Beschreibt die Eigenverzinsung des Eigenkapitals, im Beispiel 39,28% Zinsen auf das Kapital = starker Wert
+	Kalkulatorische Miete: Wenn einem das Gebäude selbst gehört, Miete die man zur Berechnung ansetzt
+2. Gesamtkapitalrentabilität
+	(Gewinn + Fremdkapitalzinsen)*100 / Gesamtkapital
+
+3. Umsatzrentabilität
+	Gewinn*100/Verkaufserlöse
+
+4. Personalkostenanteil
+	Personalkosten*100 / Gesamtkosten (Soll, alles außer Gewinn)
+	
+	190000 / 389515 = 48,78%
+
+5. Werbe- und Reisekosten
+	Werbe- und Reisekosten*100 / Gesamtkosten
+	
+	65.300 / 389.515 = 16,76%
+	

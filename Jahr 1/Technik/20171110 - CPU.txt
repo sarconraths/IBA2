@@ -1,0 +1,63 @@
+﻿2017-11-10
+
+Prozessor - Aufbau, Marktistuation, Unterschiede
+
+Kapitel: 
+3
+3.1
+3.2
+3.3 (MIPS, GFLOPS)
+3.4 (CISC, RISC, Hyperthreading, Multithreading, Cache)
+4
+4.1
+4.3
+15
+15.1
+15.2
+15.2
+15.4
+
+
+
+
+Themen:
+- Was ist eine CPU?
+- Wie ist eine CPU aufgebaut? -Von-Neumann-Architektur, Leitwerk/Rechenwerk, 
+- L1, L2, L3 Cache:
+	L3-Cache wird von den Kernen geteilt, L1 und L2 sind für jeden Kern einzeln vorhanden
+	Fotolithographie: Übertragung eines Bildes auf einen anderen Gegenstand (PC-Technik: Halbleiter)
+- Benchmark: FLOPS 
+- Vergleich: AMD / Intel Prozessoren (Desktop, Server, Embedded)
+- AGP: Grafikkarten waren erst PCI, war aber zu langsam, daher AGP-Slots (Vorgänger von PCIe)
+
+-> Was ist eine CPU?
+
+In einem Computersystem kann es mehrere Prozessoren geben. Wenn man vom Prozessor spricht, dann ist damit in der Regel immer der Hauptprozessor gemeint. Wegen seiner zentralen Stellung wird die Bezeichnung "Zentrale Verarbeitungseinheit" verwendet. Im Englischen "Central Processing Unit", kurz CPU.
+Der Hauptprozessor ist die Funktionseinheit in einem Computer, der die eigentliche Verarbeitungsleistung erbringt. Der Hauptprozessor ist für die Informationsverarbeitung und die Steuerung der Verarbeitungsabläufe zuständig. Dazu holt sich der Prozessor aus dem Speicher nacheinander die Befehle und veranlasst die Informationsverarbeitung.
+Neben dem Hauptprozessor gibt es noch weitere Prozessoren, die den Hauptprozessor von der Arbeit entlasten. Der Grafikprozessor (GPU) ist ein solcher Prozessor.
+
+-> Wie ist eine CPU aufgebaut? 
+
+Ein Prozessor besteht grob gesehen aus Rechenwerk, Leitwerk und internem Speicher. Über ein Bus-Interface greift der Prozessor auf einen externen Bus, den Systembus zu. Moderne Prozessoren haben zusätzlich interne Speicher, einen integrierten Speichercontroller und Coprozessor-ähnliche Verarbeitungseinheiten, die in den Chip integriert sind.
+
+Steuerwerk: Steuereinheit, die für Zusammenarbeit der einzelnen Teile des Prozessors verantwortlich ist. Enthält Befehlszähler, Befehlsregister und Befehlsdecoder. Bei klassischer Von-Neumann-Architektur: FETCH, DECODE, FETCH OPERANDS, EXECUTE, UPDATE INSTRUCTION POINTER
+Befehlsdecoder (Instruction Decode Unit, IDU): Funktionseinheit, die Maschinencode in einzelne Anweisungen umsetzt, die vom Prozessor ausgeführt werden können. Erhält Anweisungen aus dem Speicher und macht daraus einfache logische und mathematische Befehle (>, <, +, Sprung auf andere Anweisung usw.). Oft mehrmals in paralleler Anordnung vorhanden
+Rechenwerk (Arithmetic Logic Unit, ALU): In der ALU werden alle arithmetischen und logischen Funktionen und Berechnungen ausgeführt. Zur ALU gehören auch der Akku (Speicher) und die Flags (Ereignisspeicher).  
+
+Von-Neumann-Architektur: Im wesentlichen 4 Funktionseinheiten: Rechenwerk, Steuerwerk, Speicher, Ein- und Ausgabeeinheit. Arbeitet sequenziell: Befehle und Daten werden aus dem Speicher nacheinander abgearbeitet. 
+
+-> L1, L2 und L3-Cache
+
+L1: On-die, maximale Zugriffsgeschwindigkeiten, häufig genutzte Befehle und Daten können zwischengespeichert werden - 16-64 kByte. 
+L2: on-die oder im Prozessorgehäuse, hier werden die Daten des Arbeitsspeichers zwischengespeichert. 
+L3: Bei den Topmodellen von Intel umd AMD; gemeinsam von allen Kernen genutzt; größter Cache; vorhandener L3 führt zu hohen Transistorzahlen
+
+-> Fotolithographie:
+
+Die Fotolithografie (auch Photolithographie) ist eine der zentralen Methoden der Halbleiter- und Mikrosystemtechnik zur Herstellung von integrierten Schaltungen und weiteren Produkten. 
+Dabei wird mittels der Belichtung das Bild einer Fotomaske auf einen lichtempfindlichen Fotolack übertragen. Anschließend werden die belichteten Stellen des Fotolacks aufgelöst (alternativ ist auch die Auflösung der unbelichteten Stellen möglich, 
+wenn der Fotolack unter Licht aushärtet). So entsteht eine lithografische Maske, die die weitere Bearbeitung durch chemische und physikalische Prozesse ermöglicht, etwa das Einbringen von Material in die offenen Fenster oder das Ätzen von Vertiefungen unter den offenen Fenstern.
+
+-> Was sind FLOPS?
+
+Flops: Floating Point Operations Per Second, Leistungsmerkmal von Prozessoren, wie viele Gleitkommazahl-Operationen (Additionen/Multiplikationen) können pro Sekunde durchgeführt werden?

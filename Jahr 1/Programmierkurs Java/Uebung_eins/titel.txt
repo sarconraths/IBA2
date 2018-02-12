@@ -1,0 +1,14 @@
+0;Killer Queen;0
+1;Nothing Else Matters;5
+2;Smells Like Teen Spirit;4
+3;Aenima;3
+4;Bicycle Race;0
+5;Schwarzbraun ist die Haselnuss;2
+6;Komm in meinen Wigwam;2
+7;Engel;1
+8;We Are The Champions;0
+9;We Will Rock You;0
+10;Spieluhr;1
+11;Parabola;3
+12;Poly Has A Cracker;4
+13;Enter The Sandman

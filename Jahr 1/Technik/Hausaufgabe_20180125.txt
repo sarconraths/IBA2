@@ -1,0 +1,13 @@
+Aufgabe:
+HP mit
+- Image Slider
+- Navigationsmenü mit Hovereffekt oder mouseover
+- Ansprechendem Aussehen
+- PHP Formular zur Preisberechnung (siehe unten)
+- Umfang der Seite: 3-5 Webseiten
+- CSS-Formatierung
+- Optional: Anbindung an Datenbank
+
+Ich: Themengebiet: IT-Unternehmen
+PHP-Rechner: Hardware + Dienstleistung (z.B. PC und Handwerker-Stundensatz)
+

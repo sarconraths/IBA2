@@ -1,0 +1,19 @@
+Temperaturen in Grad Celsius
+----------------------------
+21  29  28  31  30  34  33  28  25  24  Durchschnitts-Temperatur: 28
+28  32  29  26  20  33  24  28  24  21  Durchschnitts-Temperatur: 26
+27  32  28  30  22  27  23  33  30  24  Durchschnitts-Temperatur: 27
+25  22  20  28  27  22  26  23  32  28  Durchschnitts-Temperatur: 25
+31  28  34  29  34  24  24  22  32  23  Durchschnitts-Temperatur: 28
+21  20  20  33  29  32  20  21  24  33  Durchschnitts-Temperatur: 25
+20  30  20  25  24  21  34  28  28  25  Durchschnitts-Temperatur: 25
+29  31  22  31  26  29  26  25  33  22  Durchschnitts-Temperatur: 27
+24  25  33  32  25  29  30  32  29  26  Durchschnitts-Temperatur: 28
+20  34  34  21  22  33  31  20  27  26  Durchschnitts-Temperatur: 26
+23  23  32  29  22  23  20  23  21  29  Durchschnitts-Temperatur: 24
+27  31  24  21  29  24  23  24  33  27  Durchschnitts-Temperatur: 26
+22  24  21  21  21  25  30  34  26  29  Durchschnitts-Temperatur: 25
+25  32  25  33  23  21  23  33  31  25  Durchschnitts-Temperatur: 27
+Gesamt-Durchschnitts-Temperatur: 26
+Erstellt am 13.05.2014 um 11:11:34
+unter Windows 8.1 Version 6.3

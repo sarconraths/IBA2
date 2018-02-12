@@ -1,0 +1,34 @@
+Kernel im Zusammenhang mit Linux
+
+Kernel = Kern
+Betriebssystemkern, Betriebssystem ohne Systemsoftware, Bibliotheken, Anwendungssoftware
+Zentraler Bestandteil des Betriebssystems 
+Verbindet Systemhardware mit Anwendungssoftware 
+Übernimmt die Prozessverwaltung
+Bei Mehruser-Systemen: Kernel überwacht Zugriffsrechte
+Kernel ist konfigurierbar
+
+Festplatten-Partionierng bei Linux:
+
+- Einhängepunkte
+
+Oberster Punkt: \ = ROOT
+\etc
+\boot
+\var
+\home
+
+können auf verschiedene Festplatten ausgelagert werden - damit wird das System stabiler
+
+\swap = Auslagerungsdatei (Windows pagefile.sys
+
+Exkurs MBR / GPT
+MBR: Master Boot Record
+GPT: GUID Partition Table (GUID: Globally Unique Identifier)
+GPT ist der neuere Standard, der MBR nach und nach ersetzt. Allerdings ist MBR noch weit kompatibler
+- MBR funktioniert nur mit Festplatten bis 2 TB Größe und unterstützt nur bis zu 4 primäre Partitionen
+- GPT stellt Grenzen bei der Festplattengröße nur nach Betriebssystem und Dateisystem. Nahezu unbegrenzte Anzahl Partitionen
+bei MBR: Partionierungs-Daten und Boot-Daten am selben Ort. GPT speichert diese mehrfach an verschiedenen Orten -> Robuster, einfacher wiederherzustellen falls Daten korrupt sind
+
+
+

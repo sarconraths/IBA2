@@ -1,0 +1,109 @@
+Zu Betriebsgliederungsplan der Firma Hofer KG
+
+Stabliniensystem
+Einliniensystem (Ohne Stabstellen)
+Mehrliniensystem (ein Abteilungsleiter hat Zugriff auf mehrere Unterabteilungen)
+
+Geschäftsleitung = Top Management
+
+Abteilungsleiter = Middle Management (Innenleitung, Warenabteilungen, Rechnungswesen)
+
+Untere Ebene = Lower Management
+
+Einstellungsprozess: 
+
+Rechnungswesen = Abtl._ Herr Oßwald	 Buchhaltung Frau Breuer	 Kore Frau Meisinger	
+Kalkulation Herr Scholl		Lohnabrechnung Frau Michel
+
+Anforderungen an eine Stelle = Schulabschluss, Erfahrungen im Fachbereich, Debitoren (Kundenbuchhaltung), Kreditoren (Lieferantenbuchhaltung), Sachkonten, Über- 
+und Unterordnung (z.B. gibt es eine Praktikantin -> Übergeordnet; der Geschäftsleitung -> untergeordnet), Tätigkeiten, Eingruppierung in Lohntarife
+
+Personalstelle = Einstellungen (Anzeigen schalten, Akquise von Mitarbeitern), Urlaubszuteilung, Führung der Personalakte (Einsicht muss jederzeit erlaubt werden), 
+Zeugnisse (müssen jederzeit ausgestellt werden), Arbeitsvertrag
+Lohnabrechnungen = Brutto, Netto, Auszahlung, Abzüge Krankenkasse, Abzüge Finanzamt
+Kostenrechnung = Kostenaufstellung, Kostenarten (Fixkosten und variable Kosten), Unternehmerlohn, Grundkosten, Kalk. Kosten, neutraler Aufwand - Teil der mit dem Betrieb nicht unmittelbar in Verbindung steht 
+(betrieblicher Aufwand: z.B. Angestellte, Ausbildungsgehalt usw.). dagegen Neutraler Aufwand z.B. wenn man ein Firmenauto unter Wert verkauft
+
+Warenabteilung = Abt._Leiter Frau Jung	EK= Herr Hofmann	VK Herr Jahn	Vertrieb= Frau Pol	Lager= Herr Anton
+
+Innenleitung = Frau Pleininger	Abt._Leiterin, 	Personal= Frau Schneid, 	EDV = Herr Freud	Verwaltung = Frau Kleinmann
+
+
+
+
+Liquidität (angaben in %) - Zahlungsfähigkeit des Unternehmens, prüft die Bank wie auch u.U. das Finanzamt
+1. flüssige Mittel M*100/kurzfri. Verbindlichkeiten
+2. flüssige Mittel M + Forderungen*100/kurzfristige Verbindlichkeiten
+3. UV(Umlaufvermögen)*100/kurz. Verbindlichkeiten
+
+z.B. Liquidität bei 257%: kurzfristige Verbindlichkeiten können 2,57 Mal abgedeckt werden
+
+Wirtschaftlichkeit: 
+siehe Blatt "Inventar des Lebensmittelgr." - C
+
+
+Gewinnverteilung in OHG- nach HGB
+
+Gewinn: 112.000
+
+			Einlage			4% der Einlage		Anteile		Gesamt
+Frau Weinfurter		150.000			6.000			96.000		102.000	
+Frau Kleinle		50.000			2.000			96.000		98.000
+Gesamt			200.000			192.000			
+
+
+Gewinnverteilung nach Vertrag 6,5% der Einlage Rest in angemessenem Verhältnis
+Frau Weinfurter und Frau Kleinle erhalten f. die GF 2000,00 mtl.
+
+Gewinn: 275.000
+			Einlage			6,5% der Einlage	GF		Anteile		Gesamt
+Frau Weinfurter		150.000			9.750			24.000		3		194.250
+Frau Kleinle		50.000			3.250			24.000		1		80.750			
+			200.000				
+
+
+
+JArbSchG
+1. Max. 40 Stunden die Woche, also bei 5 Tagen 8 Stunden am Tag - Mehrarbeit kann an anderen Tagen ausgeglichen wrden
+2. nicht mehr als 8 Stunden täglich, nicht mehr als 40 Std. Wöchentlich
+3. Ja, er darf den Jugendlichen nicht vor einem vor 9 Uhr beginnenden Schultag arbeiten lassen oder an einem Berufsschultag mit 
+mehr als 5 Unterrichtsstunden mit min. 45 Minuten oder in Blockunterrichtswochen
+4. Ja, und am Tag unmittelbar vor der schriftlichen Abschlussprüfung
+5. Bei mehr als 4,5-6 Stunden: 30 Minuten
+Bei mehr als 6 Stunden: 60 Minuten
+"Ruhepause" erst ab 15 Minuten, max. 4,5 Std. ununterbrochen ohne Ruhepause
+6. Zwischen Arbeitsende und Arbeitsbeginn müssen min. 12 Stunden liegen
+7. Unter 16: Min. 30 Werktage
+16-17: Min. 27 Werktage
+17-18: 25 Werktage
+
+2. Blatt:
+1. Nein, wenn es physische oder psychische leistngsfähigkeit übersteigt oder aufgrund
+mangelnder erfahrung übermäßig gefährlich wird außer es ist für die Ausbildung nowendig
+2. Ja
+3. vor Beginn und bei wesentlicher Änderung der Arbeitsbedingungen über die Unfall- und Gesundheitsgefahren
+während der Beschäftigng sowie über Einrichtungen und maßnahmen zur Abwendung der Gefahren
+Mindestens halbjährliche Wiederholung
+4. Ja, zwischen 15 und 18 Jahren bei Eintritt ins Berufsleben
+5. Ja
+
+BBiG
+1. Lernorte: in Betrieben der Wirtschaft, vergleichbaren Einrichtungen außerhalb der Wirtschaft
+in berufsbildenden Schulen und sonstigen Berufsbildungseinrichtungen
+2. Dauer der Probezeit, dauer der regelmäßigen täglichen Ausbildungszeit, 
+Zahlung und Höhe der Vergütng, Dauer des Urlaubs, Form des Ausbildungsnachweises
+3. Ja, z.B. bei beruflicher, schulischer Vorbildung oder Arbeitserfahrung
+4. Selbes wie 2.
+5. Ja, bis zur Dauer von sechs Wochen, wenn sie sich für die Ausbildung bereithalten, diese aber ausfällt oder soe aus sonstigen, ih ihrer Perosn liegenden Gründen unverschuldet verhindert sind
+6. Min. 1 Monat, höchstens 4 in der Ausbildung
+7. Ja, ohne Angabe von Gründen ohne Einhalten einer Frist
+8. Nur aus einem wichtigen Grund ohne Einhalten einer Kündigungsfrist, 
+sonst von Azubi mit Frist von vier Wochen, wenn sie Ausbildung aufgeben oder für andere Berufstätigkeit ausbilden lassen wollen
+Schriftlich
+9. Verpflichtng, für die Ausbildng eine Entschädigung zu zahlen, Vertragsstrafen,
+Ausschluss oder Beschränkung von Schadensersatzansprüchen, Festsetzen der Höhe eines
+Schadensersatzes in Pauschbeträgen
+10. Es muss ein schriftliches Zeugnis ausgestellt werden. Angaben über Art, Dauer und Ziel
+sowie erworbene berufliche Fertigkeiten, Kenntnisse und Fähigkeiten
+Auf Verlangen auch Angaben über Verhalten und Leistung
+

@@ -1,0 +1,21 @@
+Aufgabe:
+
+Titel alphabetisch sortiert nach Titelbezeichnung ausgeben in der Form:
+Id, Titelbezeichnung, Interpretname
+Hierzu empfiehlt es sich die Interpreten in eine HasMap<Integer,
+String>laden um den richtigen Interpreten zum Song leicht zu finden
+
+Bei Fragen: Mail an bstz@alphasystems.com oder reh@zebulon.de
+
+damit wir das Ganze von Anfang an richtig machen folgende Ergänzung zur
+Übung:
+
+Erstellen Sie in ihrer Übung eine Klasse Dao.
+Diese Klasse ist die einzige, die in irgendeiner Form auf die Dateien
+zugreifen darf.
+Sie enthält folgende Methoden:
+
+public ArrayList<Interpret> getInterpretenListe();
+public HashMap<Integer, Interpret> getInterpretenMap();
+public ArrayList<Song> getSongListe();
+public HashMap<Integer, Song> getSongMap();

@@ -1,0 +1,82 @@
+IBA 06.20.2017
+PC-Technik Grundlagen
+Wie arbeitet ein Computer
+grundsätzlich 2 Zustände: 	An / Aus = 1 / 0 
+							0 = Strom aus
+							1 = Strom an	
+Kleinste Einheit = Bit – Zwei Werte, 0 /1
+8 			Bit		= 1 Byte
+1024		Byte 	= 1 KiByte 
+usw
+
+2^4		2^3		2^2		2^1		2^0
+16		8		4		2		1
+
+Dezimal -> Binär -> Hexadezimal
+
+Hexadezimalsystem (16 Werte) 
+
+Hex-Wert		Binär-Wert		Dezimal-Wert
+				8 4 2 1
+				
+0				0 0 0 0			0
+1				0 0 0 1			1
+2				0 0 1 0			2	
+3				0 0 1 1			3
+4				0 1 0 0			4
+5				0 1 0 1			5
+6				0 1 1 0			6
+7				0 1 1 1			7
+8				1 0 0 0 		8
+9				1 0 0 1			9
+A				1 0 1 0			10
+B				1 0 1 1 		11
+C				1 1 0 0			12
+D				1 1 0 1			13
+E				1 1 1 0			14
+F				1 1 1 1			15
+
+Dezimal-Wert -> Binär
+
+2048		1024		512		256		128		64		32		16		8		4		2		1
+
+25
+25-16=9-8=1-1=0
+ergibt: 1 1 0 0 1
+
+1456
+1456-1024=432-256=176-128=48-32=16-16=0			
+ergibt: 1 0 1 1 0 1 1 0 0 0 0 
+
+1 Hex-Zeichen sind 4 Bit
+
+Umrechnung Bit in Hex - z.B. 1456:
+3 Hex-Zeichen
+8 4 2 1 | 8 4 2 1 | 8 4 2 1
+0 1 0 1 | 1 0 1 1 | 0 0 0 0 
+Hex 5	  Hex B		Hex 0
+
+Geschwindigkeitsübertragungen:
+
+MBit -> MByte
+300 MBit/s -> MByte
+300 MBit / 8 (weil 8 Bit ein Byte sind)
+300 / 8 = 37.5 MByte/s
+
+MBit -> GByte
+MBit / 8 = MByte
+MByte / 1000 = GByte
+
+
+
+ATA / SATA
+
+Parallele Datenübertragung (ATA)
+- der Sender "zerstückelt" die Daten in Pakete und sendet diese parallel über z.B. vier Kanäle an den Empfänger, der sie wieder zusammensetzt. 
+Daten enthalten Prüfsummen, die besagen, wie die Informatione zusammengesetzt werden müssen - das kostet Geschwindigkeit. Prüfverfahren dauert länger als es dauert, die Daten seriell zu übertragen
+
+Serielle Datenübertragung (SATA)
+- Es erfolgt auch eine Aufteilung, aber in zeitlichem - nicht in räumlichem - Sinn. Dadurch, dass Daten in der richtigen Reihenfolge ankommen, 
+entfällt die Überprüfung und das richtige Zusammensetzen. 
+
+

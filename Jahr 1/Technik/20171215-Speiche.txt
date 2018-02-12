@@ -1,0 +1,31 @@
+IBA Technik - 15.12.2017
+
+- Kapitel 5, Speicher
+L1 und L2 sind Flip-Flop-Schaltungen (SRAM)
+
+- DDR, CAS, 
+- PC2-5300P
+	PC2 steht für DDR2
+	5300 MegaTransfers/s
+	P: ECC(Error Checking and Correction) - kann 1 Bit-Fehler erkennen und korrigieren, 2 Bit-Fehler führen zum Absturz
+-PC4-19200U: 
+	Speichertransferrate berechnen, (Takt der Speicherzellen (in MHz) x Bit pro Übertragng x Prefetch / 8Bit/Byte 
+	
+- Kapitel 6
+6.1
+
+	
+	
+	Server
+	2 CPUs
+	Pro CPU 12 Speicherbänke
+	16GB Module - 1/4 ausgelastet - 50% Speicherplus schaffen ABER: bei 1-2 Speicherkanälen höhere Taktrate - bei 3 Kanälen niedrigere Taktrate
+	idealerweise mit 4 oder 8 DIMMs pro CPU arbeiten, nicht mit 12 - sonst geringere Bandbreite
+	
+	16GB: 
+	Richtlinien: 
+	Prozessoren gleichmäßig bestücken
+	Mit Kanal beginnen der am weitesten weg von Server liegt
+	Mit weißem Steckplatz beginnen
+	
+	
